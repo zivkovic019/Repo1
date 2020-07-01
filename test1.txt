@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A881-2B64
-
- Directory of C:\Users\Aleksa\Desktop\PracticeProject
-
-01.07.2020  22:59    <DIR>          .
-01.07.2020  22:59    <DIR>          ..
-01.07.2020  22:59                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  24.637.063.168 bytes free
+change 1
